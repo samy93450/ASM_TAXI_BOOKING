@@ -1,0 +1,23 @@
+{
+  "name": "ASM TAXI BOOKING",
+  "short_name": "ASM TAXI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#02060a",
+  "theme_color": "#07141f",
+  "description": "Réservations taxi premium — Citadines Paris La Défense",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

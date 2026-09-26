@@ -1,0 +1,20 @@
+ASM TAXI BOOKING — FICHIERS DE MISE EN LIGNE
+
+Contenu nécessaire :
+- index.html : application complète
+- sw.js : fonctionnement hors connexion et mise à jour
+- manifest.webmanifest : installation sur l’écran d’accueil de l’iPhone
+
+MISE EN LIGNE
+1. Décompressez le ZIP.
+2. Envoyez les trois fichiers à la racine de votre hébergement.
+3. Vérifiez que index.html est directement accessible dans le dossier public.
+4. Utilisez obligatoirement une adresse HTTPS pour l’installation sur iPhone.
+
+INSTALLATION SUR IPHONE
+1. Ouvrez l’adresse du site avec Safari.
+2. Touchez Partager.
+3. Touchez « Sur l’écran d’accueil ».
+
+Les réservations, compteurs, commissions et tarifs sont conservés localement
+sur l’appareil utilisé. Effacer les données de Safari efface ces informations.
